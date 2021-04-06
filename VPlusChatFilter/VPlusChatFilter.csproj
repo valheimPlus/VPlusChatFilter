@@ -473,6 +473,7 @@
   <ItemGroup>
     <Content Include="FodyWeavers.xml" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>copy "$(TargetDir)VPlusChatFilter.dll" "$(VALHEIM_INSTALL)\BepInEx\plugins\VPlusChatFilter.dll"
