@@ -2,7 +2,6 @@
 	<Costura>
 		<IncludeAssemblies>
 			INIFileParser
-			YamlDotNet
 		</IncludeAssemblies>
 	</Costura>
 </Weavers>

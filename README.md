@@ -130,8 +130,8 @@ If you want to add or remove custom words from the default profanity filter. You
 
 ```ini
 # This file is a template to show how to add words
-# Do NOT anything else other than the words separated by ', '
-
+# Do NOT add anything else other than the words separated by ', '
+# Remember to remove these three lines before using this file
 word1, word2, word3
 ```
 
