@@ -1,0 +1,9 @@
+{
+    "name": "VPlusChatFilter",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/valheimPlus/VPlusChatFilter",
+    "description": "Chat Filter is a server-side only HarmonyX mod for Valheim. This mod filters profanities and censors them in the in game chat.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}
