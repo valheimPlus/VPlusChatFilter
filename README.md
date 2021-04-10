@@ -25,7 +25,7 @@ It *should* also work along side any other mods, including existing chat mods.
 
 Download the [latest release from here](https://github.com/valheimPlus/VPlusChatFilter/releases/latest). Extract the files, and place them into the following folder:
 
-> C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins
+> C:\Program Files (x86)\Steam\steamapps\common\Valheim dedicated server\BepInEx\plugins
 
 The above location will be different for you if you have Valheim installed elsewhere.
 
